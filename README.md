@@ -30,5 +30,5 @@ This project is licensed under the MIT License — feel free to use, share, or i
 
 **Bahri Uranlı**  
 - 💼 Aspiring Full-Stack Developer  
-- 🌐 [LinkedIn]([https://linkedin.com/in/...](https://www.linkedin.com/in/bahri-uranl%C4%B1-035318213/))  
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/bahri-uranl%C4%B1-035318213/))  
 - 🐙 [GitHub](https://github.com/Devxbu)  

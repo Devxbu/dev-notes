@@ -11,8 +11,6 @@ These notes are a part of my continuous learning journey as a developer and are 
 - Sharing knowledge with other learners,
 - Building a public record of my progress.
 
----
-
 ## 📚 Content Structure
 
 The repo is organized into folders by topic:
@@ -27,8 +25,6 @@ The repo is organized into folders by topic:
 ## 📌 License
 
 This project is licensed under the MIT License — feel free to use, share, or improve upon it.
-
----
 
 ## ✍️ Author
 

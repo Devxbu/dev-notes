@@ -20,19 +20,13 @@ The repo is organized into folders by topic:
 /Algorithm/ # Problem-solving approaches and data structures
 /Concepts/ # Specific topics like about programmin
 
----
-
 ## ⚖️ Disclaimer
 
 > The notes related to books (e.g., *Effective C*) are written entirely in my own words. They are summaries and personal insights, and **do not contain any direct copy-pasted content** from the book.  
 
----
-
 ## 📌 License
 
 This project is licensed under the MIT License — feel free to use, share, or improve upon it.
-
----
 
 ---
 
